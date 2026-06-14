@@ -19,6 +19,7 @@ import Dashboard from './pages/Dashboard';
 import Admin from './pages/Admin';
 import Storyboard from './pages/Storyboard';
 import __Layout from './Layout.jsx';
+import Login from './pages/Login';
 
 
 export const PAGES = {
@@ -42,6 +43,7 @@ export const PAGES = {
     "Dashboard": Dashboard,
     "Admin": Admin,
     "Storyboard": Storyboard,
+    "Login": Login,
 }
 
 export const pagesConfig = {
